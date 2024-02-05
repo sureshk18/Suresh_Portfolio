@@ -63,11 +63,13 @@
   }
   
   .purple{
-    color: rgb(157, 91, 218);
+    /* color: rgb(157, 91, 218); */
+    color:#ff004f;
   }
   
   #element{
-    color: rgb(157, 91, 218);
+    /* color: rgb(157, 91, 218); */
+    color: #ff004f;
   }
   
   .secondsection{
